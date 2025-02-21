@@ -12,7 +12,7 @@
 - **Add Tasks** – Easily add new tasks to the list.
 - **Edit Tasks** –Modify existing tasks to update details.
 - **Delete Tasks** – Remove tasks that are no longer needed.
-- **Responsive Design ** – Works on desktop, tablet, and mobile devices.
+- **Responsive Design** – Works on desktop, tablet, and mobile devices.
 
 ## Technologies Used
 - HTML, CSS, JavaScript – Core web technologies for structure, styling, and interactivity.
@@ -44,5 +44,5 @@
 Contributions are welcome! If you encounter any issues or have suggestions for improvements, please feel free to open an issue or submit a pull request.
 
 ## Usage
-To see e-commerce-website, simply visit [quickcartWebsite.com](https://do1234.netlify.app/)
+To see e-commerce-website, simply visit [TODOLIST.com](https://do1234.netlify.app/)
 
